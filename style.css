@@ -1,0 +1,32 @@
+body{
+	font-family: arial;
+	background-color: #24292e;
+
+}
+
+.text{
+	text-align: center;
+	float: center;
+	color: white;
+	font-size: 150%;
+    padding-left: 10vw;
+	padding-right: 10vw;
+
+}
+
+h1{
+	text-align: center;
+	float: center;
+	color: white;
+	font-size: 200%;
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+	background-color: #f66a0a;
+	font-family: Georgia;
+	border-radius: .8em .3em .8em .3em;
+}
+
+.header{
+	padding-left: 8vw;
+	padding-right: 8vw;
+}
