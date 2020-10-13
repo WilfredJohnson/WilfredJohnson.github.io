@@ -1,2 +1,2 @@
 # WilfredJohnson.github.io
-It IS a website.
+Works well enough.
